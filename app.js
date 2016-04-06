@@ -1,0 +1,58 @@
+.masthead h1{
+	text-align: center;
+	padding: 1em 0;
+	font-family: 'Lobster Two', cursive;
+}
+
+.container {
+	margin: 3em auto;
+	width: 600px;
+	font-family: 'Lobster Two', cursive;
+}
+
+.hidden {
+	display: none;
+}
+
+.left {
+	float: left;
+}
+
+.stack-image {
+	background: url('../images/insta_photo.jpeg') no-repeat center center;
+	width: 200px;
+	height: 200px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin-right: 1em;
+	border-radius: 5px;
+}
+
+.intro {
+	margin-bottom: 1em;
+}
+
+.stack {
+	clear: both;
+}
+
+.inspiration { 
+	margin-left: 3em;
+}
+
+.result {
+	border: 1px solid black;
+	padding: 5px;
+	margin: 0 auto 1em auto;
+}
+
+.results-section h3 {
+	font-family: 'Lobster Two', cursive;
+}
+
+.error {
+	background-color: #F78181;
+	padding: 1em;
+}

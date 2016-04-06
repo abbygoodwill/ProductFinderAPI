@@ -19,7 +19,7 @@
 }
 
 .stack-image {
-	background: url('../images/productImage.jpeg') no-repeat center center;
+	background: url('../ProductFinder/images/productImage.jpeg') no-repeat center center;
 	width: 200px;
 	height: 200px;
 	-webkit-background-size: cover;
